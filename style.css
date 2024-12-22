@@ -1,0 +1,32 @@
+nav a {
+    background:url("https://i.ibb.co/Y3ZVTmD/vivid-blurred-colorful-wallpaper-background.jpg");
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid rgb(255, 0, 43);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 50px;
+    font-family: "Caveat", cursive;
+ }
+ 
+.debug {
+    position: absolute;
+    top: 700px;
+    right: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+h1 {
+    font-family: "Advent Pro", sans-serif;
+    font-size:40px;
+    color:rgb(82, 8, 124);
+     -webkit-text-stroke: 1px rgb(106, 96, 255);
+}
+p {
+    font-size:30px;
+}
+
+p a {
+    color:red;
+}
